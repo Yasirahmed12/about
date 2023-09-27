@@ -1,0 +1,28 @@
+h3{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: aliceblue;
+    opacity: 20px;
+}
+h3:hover{
+    color: wheat;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: rgb(34, 131, 221);
+    font-size: 60px;
+    text-decoration: underline;
+    text-decoration-color: aliceblue;
+}
+body{
+    background-image: url(
+      ./por.png
+    );
+}
